@@ -61,13 +61,13 @@ El proyecto sigue una arquitectura en capas:
 ### 1. Clonar repositorio
 
 ```bash
-git clone https://github.com/tu-usuario/f1-crud-api.git
+git clone https://github.com/Francisco-Huerta-Trujillo/CRUD_F1.git
 ```
 
 ### 2. Entrar al proyecto
 
 ```bash
-cd f1-crud-api
+cd CRUD_F1
 ```
 
 ### 3. Configurar base de datos
