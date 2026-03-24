@@ -41,7 +41,9 @@ https://www.kaggle.com/datasets/rohanrao/formula-1-world-championship-1950-2020
 Archivos principales:
 
 * `driver_standings.csv`
+* `drivers.csv`
 * `constructor_standings.csv`
+* `constructors.csv`
 
 ---
 
